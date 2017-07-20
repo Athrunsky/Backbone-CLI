@@ -1,6 +1,6 @@
 简单的Backbone初始化项目
 便于快速构建Backbone的前端代码
-
+Simple Backbone Project with Grunt+Sass+JQuery
 
 
 环境依赖
